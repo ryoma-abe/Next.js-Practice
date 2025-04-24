@@ -8,7 +8,7 @@ export const metadata: Metadata = {
 
 export default function RootLayout() {
   return (
-    <html lang="en">
+    <html lang="ja">
       <body></body>
     </html>
   );
